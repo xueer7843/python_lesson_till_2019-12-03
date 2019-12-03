@@ -2,8 +2,8 @@
 
 ## Author
 
-Till Sauerwein
+Till David Sauerwein
 
 ## Date
 
-3-12-19
+2019-12-03
